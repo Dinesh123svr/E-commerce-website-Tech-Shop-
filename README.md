@@ -28,9 +28,10 @@ An online shopping platform built using **Python (Django)**, designed to deliver
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 1. Clone the Repository.
 
 ```bash
 git clone
+
 
 
