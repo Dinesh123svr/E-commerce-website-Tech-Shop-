@@ -21,7 +21,7 @@ An online shopping platform built using **Python (Django)**, designed to deliver
 
 - **Backend**: Python, Django
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript
-- **Database**: SQLite (can be switched to PostgreSQL/MySQL)
+- **Database**: SQLite (can be switched to PostgreSQL/MySQL).
 - **Tools**: Git, GitHub, VS Code.
 
 ---
@@ -32,6 +32,7 @@ An online shopping platform built using **Python (Django)**, designed to deliver
 
 ```bash
 git clone
+
 
 
 
